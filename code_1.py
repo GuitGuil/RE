@@ -5,6 +5,3 @@ def addition(x, y):
 
 def substract(x, y):
     return(x-y)
-
-def multitply(x,y):
-    return(x*y)
